@@ -1,2 +1,2 @@
 # ProjetoZUP
-Repositório criado para projeto Orange Talents da empresa ZUP
+API do sistema de Vacinas - Projeto Orange Talents
